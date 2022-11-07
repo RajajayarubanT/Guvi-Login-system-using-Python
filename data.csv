@@ -1,0 +1,5 @@
+name,email,password,islogined
+Raja123,new@gmail.com,Raja@123,no
+Raja,raja@gmail.com,Raja@123,yes
+NewRaja,newraja123@gmail.com,Raja@123,yes
+new123,new123@gmail.com,Raja@123m,yes
